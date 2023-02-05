@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Document</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.css" integrity="sha512-Woz+DqWYJ51bpVk5Fv0yES/edIMXjj3Ynda+KWTIkGoynAMHrqTcDUQltbipuiaD5ymEo9520lyoVOo9jCQOCA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel="stylesheet" href="/css/lookbook.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Titillium+Web:wght@600&display=swap" rel="stylesheet">
+      </head>
+
+
+
+
+
+<body>
+
+
+
+<section class="products">
+          
+    <div class="sectionheader">
+      <h2><a href="/product/shop.html">Products &rarr;</a></h2>
+    </div>
+
+
+    <div class="row">
+
+      <div class="column">
+          <div class="productscontainer">
+          <a href="/img/lookbook/640F2854-AE82-49ED-B383-F1E88B040EFC.JPEG" data-lightbox="test"><img src="/img/lookbook/640F2854-AE82-49ED-B383-F1E88B040EFC.JPEG"></a>
+          </div>
+          <a data-lightbox="test" href="/img/lookbook/_5__4259.jpg"><img src="/img/lookbook/_5__4259.jpg"></a>
+        </div>
+        <div class="column">
+          <a data-lightbox="test" href= "/img/lookbook/_5__4330.jpg"> <img src="/img/lookbook/_5__4330.jpg"></a>
+          <a data-lightbox="test" href= "/img/lookbook/_F9A7039.jpg"> <img src="/img/lookbook/_F9A7039.jpg"></a>
+      
+        </div>
+        <div class="column">
+          <a data-lightbox="test" href="/img/lookbook/_F9A7144.JPEG"><img src="/img/lookbook/_F9A7144.JPEG"></a>
+          <a data-lightbox="test" href="/img/lookbook/_F9A7155.jpg"><img src="/img/lookbook/_F9A7155.jpg"></a>
+  
+        </div>
+        <div class="column">
+          <a data-lightbox="test" href="/img/lookbook/D02DF87F-63C4-4537-A393-8623B0153DF9.JPEG"><img src="/img/lookbook/D02DF87F-63C4-4537-A393-8623B0153DF9.JPEG"></a>
+          <a data-lightbox="test" href="/img/lookbook/IMG_0683.JPG"><img src="/img/lookbook/IMG_0683.JPG"></a>
+  
+        </div>
+      </div>
+ 
+  </section>
+</body>
+</html>
